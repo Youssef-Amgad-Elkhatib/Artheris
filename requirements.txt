@@ -1,6 +1,8 @@
 streamlit
 pandas 
-numpy 
+numpy
+matplotlib
+plotly
 joblib
 shap==0.50.0
 tensorflow
