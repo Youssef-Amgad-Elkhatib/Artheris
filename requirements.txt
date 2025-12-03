@@ -2,9 +2,6 @@ streamlit
 pandas 
 numpy 
 joblib
-shap
-base64
-io
-warnings
+shap==0.50.0
 tensorflow
 scikit-learn
