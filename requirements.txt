@@ -5,3 +5,4 @@ joblib
 shap==0.50.0
 tensorflow
 scikit-learn
+xgboost
